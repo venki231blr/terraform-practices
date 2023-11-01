@@ -3,5 +3,8 @@
   "description": "Repository for practising terraform learnings",
   "version": "0.0.0-development",
   "type": "module",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }

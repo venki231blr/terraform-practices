@@ -1,0 +1,11 @@
+{
+  "name": "terraform-practices",
+  "description": "Repository for practising terraform learnings",
+  "version": "0.0.0-development",
+  "type": "module",
+  "author": "Venkatesh Jayakumar",
+  "contributors": [
+    "Venkatesh Jayakumar",
+  ],
+  "license": "MIT",
+}
